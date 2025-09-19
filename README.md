@@ -57,7 +57,7 @@ Tandem_Robotics/
 │               └── ch3_03_i2c_acceleration_data_transfer.ino
 ├── docs/
 │   └── educational_materials/
-│       └── Python_for_Tandem_Robotics.pdf
+│       └── Korean_Python_for_Tandem_Robotics.pdf
 └── assets/
     ├── images/
     │   ├── Logo_tandem_robotics.png
@@ -100,7 +100,8 @@ Tandem_Robotics/
 4. See the [Educational Materials](docs/educational_materials/Python_for_Tandem_Robotics.pdf) for full instructions.
 
 ## Educational Materials
-- **[Python for Tandem Robotics: An Integrated Approach](docs/educational_materials/Python_for_Tandem_Robotics.pdf)** – a comprehensive guide for learners and instructors.
+- **[Python for Tandem Robotics: An Integrated Approach](docs/educational_materials/Python_for_Tandem_Robotics.pdf)** – a comprehensive guide for learners and instructors.(yet not ready!)
+- **[Python for Tandem Robotics: An Integrated Approach](docs/educational_materials/Korean_Python_for_Tandem_Robotics.pdf)** - a korean text comprehensive for learners and instructors.
 
 ## Usage Examples
 - Browse the examples in `microbit/examples/` and `arduino/MicroAbot/examples/`.
