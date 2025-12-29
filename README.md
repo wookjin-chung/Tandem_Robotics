@@ -1,3 +1,6 @@
+> ⚠️ This repository is Legacy v1.
+> New PBL workflow and learning entry point are 안내됩니다 via Docs Hub.
+
 # Tandem_Robotics
 
 Tandem_Robotics is an educational robotics project utilizing Micro:bit and Arduino Uno. This repository provides libraries, example code, and comprehensive educational materials for controlling robots on both platforms.
