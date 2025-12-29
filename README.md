@@ -1,3 +1,22 @@
+> ⚠️ **Legacy v1 Repository**
+>
+> 이 저장소는 **기존 Tandem Robotics 교육용 코드(Legacy v1)**를 보관·유지하기 위한 공간입니다.  
+> 신규 학습자 및 PBL 기반 학습은 아래 Docs Hub에서 시작해 주세요.
+>
+> 👉 **Start Here (Docs Hub)**  
+> https://github.com/wookjin-chung/tandem-robotics-docs
+>
+> ※ 본 레포는 기능 확장보다는 **안정성 유지 중심**으로 관리됩니다.
+
+### 📌 Repository Status Policy
+
+- 본 저장소는 **Legacy v1** 구조를 유지합니다.
+- 새로운 학습 구조, PBL 흐름, 판단 기록 중심 교육은 **Docs Hub**에서 안내합니다.
+- 신규 구조(Modular v2)는 본 저장소에서 다루지 않습니다.
+- 기능 비교, 일정, 이전 구조와의 상세 차이는 문서로 제공하지 않습니다.
+
+> 목적: 기존 사용자 혼란 방지 및 학습 진입 경로 단일화
+
 # Tandem_Robotics
 
 Tandem_Robotics is an educational robotics project utilizing Micro:bit and Arduino Uno. This repository provides libraries, example code, and comprehensive educational materials for controlling robots on both platforms.
